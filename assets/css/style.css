@@ -1652,12 +1652,12 @@ body {
 /* ────────────────────────────────────────── */
 
 .hero-journey {
-  background-image: url('assets/images/hero/hero-journey_keluarga_herba_dtop');
+  background-image: url('assets/images/hero/hero-journey_keluarga_herba_dtop.webp');
 }
 
 @media (max-width: 768px) {
   .hero-journey {
-    background-image: url('assets/images/hero/hero-journey_keluarga_herba_mobile');
+    background-image: url('assets/images/hero/hero-journey_keluarga_herba_mobile.webp');
     background-position: center center;
     padding: 80px 0 60px;
   }
@@ -1702,13 +1702,13 @@ body {
 
 /* Gambar desktop */
 .hero-home {
-  background-image: url('assets/images/hero/hero-home_kelurga_herba_dtop');
+  background-image: url('assets/images/hero/hero-home_kelurga_herba_dtop.webp');
 }
 
 /* Gambar mobile */
 @media (max-width: 768px) {
   .hero-home {
-    background-image: url('assets/images/hero/hero-home_mama_herba_mobile');
+    background-image: url('assets/images/hero/hero-home_mama_herba_mobile.webp');
     background-position: center top; /* Fokus ke bagian atas */
     padding: 80px 0 60px;
   }
