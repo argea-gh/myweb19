@@ -86,9 +86,9 @@ const products = [
     category: "Minuman Sehat",
     price: 115000,
     image: "assets/images/products/sevel-stamina-20.webp",
-    description: "Minuman herbal penambah stamina pria & wanita, berbasis madu & ginseng.",
-    benefits: ["Meningkatkan vitalitas", "Mengurangi kelelahan", "Meningkatkan daya tahan"],
-    composition: "Madu, ekstrak ginseng, tribulus, purwoceng"
+    description: "Sevel Stamina adalah minuman herbal siap seduh yang membantu memelihara stamina harian secara alami. Diracik dari 15 bahan pilihan Nusantara seperti pasak bumi dan jahe merah, ia hadir sebagai solusi lembut untuk tubuh yang mudah lelah. Rasakan energi stabil tanpa efek samping — dari pagi penuh semangat hingga sore yang tetap bertenaga. Vitalitas alami, dalam secangkir hangat.",
+    benefits: ["Bangun pagi dengan semangat, bukan keterpaksaan", "Menyelesaikan hari tanpa rasa "habis baterai" di sore hari", "Menjaga performa fisik & mental di tengah rutinitas padat", "Merawat stamina jangka panjang dengan bahan herbal warisan Nusantara"],
+    composition: "Pasak bumi, buah manggis, jintan hitam, jahe merah, kayu angin, bunga krisan, daun kelor, daun sendok, buah mengkudu, daun stevia, garam calsium, gula kelapa, serbuk kopi, gula aren, krimer."
   },
   {
     id: "cappucino-less",
